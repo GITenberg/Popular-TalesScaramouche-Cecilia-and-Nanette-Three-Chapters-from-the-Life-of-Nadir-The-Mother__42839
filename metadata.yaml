@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '5463'
     url: http://www.gutenberg.org/2009/agents/5463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42839#Popular-TalesScaramouche-Cecilia-and-Nanette-Three-Chapters-from-the-Life-of-Nadir-The-Mother_
 gutenberg_issued: '2013-05-29'
 gutenberg_type: Text
 identifiers:
