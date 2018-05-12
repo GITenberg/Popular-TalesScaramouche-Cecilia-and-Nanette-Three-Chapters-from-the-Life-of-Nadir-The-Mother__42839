@@ -1,0 +1,43 @@
+_repo: Popular-TalesScaramouche-Cecilia-and-Nanette-Three-Chapters-from-the-Life-of-Nadir-The-Mother__42839
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Burke, L., Mrs.
+    alias: Burke, Anna Christian
+    gutenberg_agent_id: '44340'
+    url: http://www.gutenberg.org/2009/agents/44340
+covers:
+- cover_type: archival
+  image_path: 42839-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Guizot, Madame (Elisabeth Charlotte Pauline)
+    aliases:
+    - Meulan, Pauline de
+    - Guizot, Élisabeth Charlotte Pauline de Meulan, Mme
+    - Guizot, Pauline
+    - Guizot, Elisabeth Charlotte Pauline
+    birthdate: 1773
+    deathdate: 1827
+    gutenberg_agent_id: '5463'
+    url: http://www.gutenberg.org/2009/agents/5463
+description: ''
+gutenberg_issued: '2013-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+tableOfContents: 'Scaramouche -- Cecilia and Nanette, or, the accident -- Three chapters
+  in the life of Nadir -- The mother and daughter -- The difficult duty: moral doubts
+  -- New-year''s night -- The Curé of Chavignat -- The double vow -- Poor José --Caroline;
+  or, the effects of a misfortune.'
+title: Popular Tales
+url: http://www.gutenberg.org/ebooks/42839
